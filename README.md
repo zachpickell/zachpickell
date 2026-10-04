@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zach</h1>
 <h3 align="center">Software Developer and Computer Science Student</h3>
 
-- 🔭 I’m currently working on [redis-clone](https://github.com/zachpickell/redis-clone)
+- 🔭 I’m currently working on **TBD**
 
 - 🌱 I’m currently learning **Networking, Automation, and Ruby**
 
